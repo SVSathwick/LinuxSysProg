@@ -13,6 +13,7 @@ int main()
     names.push_back("Sunitha");
     names.push_back("Anshuman");
 
+
     for(const auto& it: names)
         cout << it << endl;
 }
