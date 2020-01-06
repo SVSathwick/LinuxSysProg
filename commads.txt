@@ -1,0 +1,4 @@
+for compiling cpp file: gcc -c main.c -o main.o
+for compiling cpp file: g++ -c main.cpp -o main.oo
+to observe text substitution: C:    gcc -E main.c -o main.i
+                              C++:  g++ -E main.cpp -o main.ii
